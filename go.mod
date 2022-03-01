@@ -1,4 +1,4 @@
-module example/rest-api
+module github.com/vitorwdson/go-rest-example
 
 go 1.17
 
